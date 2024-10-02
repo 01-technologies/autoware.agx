@@ -112,10 +112,6 @@ repositories:
     url: https://github.com/autowarefoundation/ros2_socketcan
     version: main
   # sensor_kit
-  sensor_kit/sample_sensor_kit_launch:
-    type: git
-    url: https://github.com/autowarefoundation/sample_sensor_kit_launch.git
-    version: main
   sensor_kit/agx_sensor_kit_launch:
     type: git
     url: git@github.com:01-technologies/agx_sensor_kit_launch.git

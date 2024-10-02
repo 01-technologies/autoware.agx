@@ -146,3 +146,9 @@ repositories:
     type: git
     url: https://github.com/autowarefoundation/autoware_individual_params.git
     version: main
+  vehicle/external/scout_interface:
+    type: git
+    url: git@github.com:01-technologies/autoware_interface_scout_mini.git
+    version: main
+
+  

@@ -108,7 +108,7 @@ repositories:
   sensor_component/external/livox_ros_driver2:
     type: git
     url: https://github.com/01-technologies/livox_ros_driver2.git
-    version: v0.0.1
+    version: master
   # Fork of transport_drivers that enables reduction of copy operations
   sensor_component/transport_drivers:
     type: git

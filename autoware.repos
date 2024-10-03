@@ -88,7 +88,7 @@ repositories:
     type: git
     url: https://github.com/autowarefoundation/autoware_launch.git
     version: main
-  launcher/autoware_launch.agx:
+  launcher/autoware_launch_agx:
     type: git
     url: git@github.com:01-technologies/autoware_launch.agx.git
     version: main
